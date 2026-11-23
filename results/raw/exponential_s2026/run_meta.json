@@ -1,0 +1,12 @@
+{
+  "dataset": "exponential_s2026",
+  "curve": "exponential",
+  "generator_seed": 2026,
+  "model_seeds": [
+    0,
+    1,
+    2
+  ],
+  "full": true,
+  "minutes": 10.9
+}

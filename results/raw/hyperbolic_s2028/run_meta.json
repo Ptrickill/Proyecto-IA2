@@ -1,0 +1,12 @@
+{
+  "dataset": "hyperbolic_s2028",
+  "curve": "hyperbolic",
+  "generator_seed": 2028,
+  "model_seeds": [
+    0,
+    1,
+    2
+  ],
+  "full": true,
+  "minutes": 66.1
+}
